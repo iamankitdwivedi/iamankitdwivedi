@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamankitdwivedi&theme=light&hide_langs_below=1"> <img src="https://github-readme-stats.vercel.app/api?username=iamankitdwivedi&&show_icons=true&title_color=ffffff&icon_color=36e2b2&text_color=23d5ab&bg_color=212529">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamankitdwivedi&theme=light&hide_langs_below=1"> <img src="https://github-readme-stats.vercel.app/api?username=iamankitdwivedi&&show_icons=true&title_color=212529&icon_color=36e2b2&text_color=212529&bg_color=ffffff">
 
 <div align="center">
 
